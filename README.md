@@ -15,7 +15,7 @@ For instance, on Ubuntu, install Python with
 sudo apt install python3.8-dev
 ```
 i.e. with the `-dev` version. This contains headers needed for pybind to work properly.
-On macOS, [install x-tools command line tools](https://www.godo.dev/tutorials/xcode-command-line-tools-installation-faq/).
+On macOS, [install Xcode command line tools](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/).
 
  
 From terminal (assuming you have python and pip included in the system PATH) write
